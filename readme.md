@@ -1,2 +1,1 @@
-## Git Tutorial
-- welcome to git
+# git_tutorial
